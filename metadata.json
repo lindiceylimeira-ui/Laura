@@ -1,0 +1,6 @@
+{
+  "name": "Almoxarifado & Controle de Estoque",
+  "description": "Sistema completo de controle de estoques, movimentações, emissão de requisições, relatórios e indicadores de desempenho com SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
